@@ -27,5 +27,5 @@
     * Virtual Machine --
           Virtual Machine is defined as a computer resource that functions like a physical computer and makes use of software resources only instead of using any physical computer for functioning, running programs, and deploying the apps.
           -- there are two types of virtual Machine:
-                1. VM Ware
-                2. VirtualBox
+                1. VM Ware.
+                2. VirtualBox.
