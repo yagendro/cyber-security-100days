@@ -6,13 +6,13 @@
 
 
 ### installation:
-      install virtualbox: [virtualbox link](https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe)<br>
+  install virtualbox: [virtualbox link](https://download.virtualbox.org/virtualbox/7.0.18/VirtualBox-7.0.18-162988-Win.exe)<br>
       
-      install VM Ware: [VM Ware link]()<br>
+  install VM Ware: [VM Ware link]()<br>
 
-      install kali for virtualbox: [download](https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-virtualbox-amd64.7z)<br>
+  install kali for virtualbox: [download](https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-virtualbox-amd64.7z)<br>
 
-      install kali for VM Ware: [download](https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-vmware-amd64.7z)<br>
+  install kali for VM Ware: [download](https://cdimage.kali.org/kali-2024.2/kali-linux-2024.2-vmware-amd64.7z)<br>
 
       
     
