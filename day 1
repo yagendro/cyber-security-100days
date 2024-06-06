@@ -1,0 +1,31 @@
+  This is day 01 class of cyber security 
+  -- content -- 
+    1. Introduction to CyberScurity and Ethical Hacking.
+    2. Over view of windows and Linux.
+    3. Virtual Machine.
+
+  Lets Start The concept : 
+
+    * Introduction to Cybesecurity --
+          cybersecurity is the protection of cyber-space (which includes hardware, software, networks, and their servers, peripheral devices, data and information, and all other components associated with technology) and internet-connected systems from both internal as well as external threats and cybercriminals.
+    - different Security
+        -- Network Security.
+        -- System Security.
+        -- Application Security.
+        -- Information Security.
+        -- Web Security.
+        -- Mobile Security
+    
+    * Ethical Hacking -- 
+         Hacking refers to the act of compromising digital devices and networks through unauthorized access to an account or computer system.
+
+    * Windows and linux --
+
+          - Windows is a proprietary operating system developed by Microsoft. It’s widely used on PCs and laptops and it uses a hybrid kernel.
+          - Linux is a Unix-like open-source operating system. It’s free to use and allows users to modify its source code and it uses a monolithic kernel.
+
+    * Virtual Machine --
+          Virtual Machine is defined as a computer resource that functions like a physical computer and makes use of software resources only instead of using any physical computer for functioning, running programs, and deploying the apps.
+          -- there are two types of virtual Machine:
+                1. VM Ware
+                2. VirtualBox
