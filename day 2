@@ -1,0 +1,25 @@
+ ---   This is day 02 cyber security class   ---
+ -- content -- 
+    1. installation of kali linux.
+    2. setting of environment.
+    3. basic commands.
+
+   * installation of kali linux:
+
+     1. Install VirtualBox or VM Ware 
+     2. install Kali Linx
+
+     Note: After installed linux the user and password will be same (username: kali and password: kali) then update and upgrade the os.
+
+   * setting of envirnoment--
+
+  * Basic commands:-
+      1. pwd : The pwd command in Linux is used to print the complete path of the current working directory. It shows the location where you are working on, starting from the root and ending with the directory.
+      2. ls : It is a Linux shell command that lists directory contents of files and directories.
+      3. cd : It is used to change the current working directory i.e., in which the current user is working). The "cd" stands for 'change directory.
+      4. cd ..: the cd .. command that moves the terminal to the current directory of the parent directory.
+      5. man:  The “man” command provides comprehensive documentation, helping users understand how to use and configure different elements of the Linux environment.
+      6. sudo: sudo (Super User DO) command in Linux is generally used as a prefix for some commands that only superusers are allowed to run.
+       
+  
+   
